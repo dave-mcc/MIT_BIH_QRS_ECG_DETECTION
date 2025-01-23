@@ -7,3 +7,8 @@ X
 If you use any of the codes published in this repository, partially or fully, you MUST cite the above conference paper.
 
 To generate the figures, please consider running the code in the following sequence:
+
+Data files (ECG) can be found at the following website:
+https://www.physionet.org/content/mitdb/1.0.0/
+
+A proper citation is required to use any of these data sets, as described in their websites.
