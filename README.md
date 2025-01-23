@@ -11,4 +11,4 @@ To generate the figures, please consider running the code in the following seque
 Data files (ECG) can be found at the following website:
 https://www.physionet.org/content/mitdb/1.0.0/
 
-A proper citation is required to use any of these data sets, as described in their websites.
+A proper citation is required to use the data set, as described in the website.
