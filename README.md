@@ -1,6 +1,6 @@
 # MIT_BIH_QRS_ECG_DETECTION
 
-This pakage includes all codes to generate results in the following paper:
+This package includes all code to generate the results in the following paper:
 
 X
 
