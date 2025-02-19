@@ -2,7 +2,7 @@
 
 This package includes all code to generate the results in the following paper:
 
-X
+David McCubbins, Bhoj Raj Thapa, Kage Hall, and Jihye Bae. "Simple and Effective Signal Processing Techniques to Detect Heartbeats from Electrocardiogram".
 
 If you use any of the code published in this repository, partially or fully, you MUST cite the above conference paper.
 
