@@ -6,6 +6,17 @@ D. McCubbins, B. R. Thapa, K. Hall, and J. Bae. "Simple and Effective Signal Pro
 
 If you use any of the code published in this repository, partially or fully, you MUST cite the above conference paper.
 
+The primary script in this repository is:
+
+- **`ECGDetection.m`**  
+  This script implements the complete signal processing pipeline for detecting R-peaks from raw ECG signals. The pipeline includes: 
+  - **Band-pass filtering**  
+  - **Peak detection and QRS complex identification**  
+  - **QRS duration measurement**  
+  - **Wide Complex Tachycardia (WCT) / Narrow Complex Tachycardia (NCT) determination**  
+The code is implemented in MATLAB and is designed for clarity, reproducibility, and ease of use with standard MATLAB toolboxes.
+
+
 Data files (ECG) can be found at the following website:
 https://www.kaggle.com/datasets/protobioengineering/mit-bih-arrhythmia-database-modern-2023 
 
