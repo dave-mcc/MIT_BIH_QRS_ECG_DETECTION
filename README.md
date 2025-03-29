@@ -13,8 +13,9 @@ The primary script in this repository is:
   - **Band-pass filtering**  
   - **Peak detection and QRS complex identification**  
   - **QRS duration measurement**  
-  - **Wide Complex Tachycardia (WCT) / Narrow Complex Tachycardia (NCT) determination**  
-The code is implemented in MATLAB and is designed for clarity, reproducibility, and ease of use with standard MATLAB toolboxes.
+  - **Wide Complex Tachycardia (WCT) / Narrow Complex Tachycardia (NCT) determination**
+ 
+  The code is implemented in MATLAB and is designed for clarity, reproducibility, and ease of use with standard MATLAB toolboxes.
 
 
 Data files (ECG) can be found at the following website:
